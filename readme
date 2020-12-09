@@ -1,0 +1,4 @@
+for maven profile
+
+dev -> mvn clean install -Pdev
+qa -> mvn clean install -Pqa
